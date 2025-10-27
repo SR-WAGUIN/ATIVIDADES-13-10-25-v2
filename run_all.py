@@ -10,3 +10,4 @@ main_script = os.path.join(FULL_DIR, "main.py")
 subprocess.run(["python", main_script])
 
 print("\n✅ Processo completo finalizado!")
+
